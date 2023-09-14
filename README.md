@@ -1,4 +1,4 @@
-# VB-NilaiSiswa
+# Pengolahan Nilai Siswa
 
 ![Pengolahan Nilai Siswa VB](https://github.com/novri3h/php-e-kasir/assets/25641359/7a4f277a-e784-46ba-8845-c4e55b7fd047)
 
@@ -56,12 +56,12 @@ Aplikasi ini dibangun dengan menggunakan:
 ## Requirement
 
 - Visual Basic 6.0
-- Cristal Report 8 or later
+- Crystal Reports 8 or later
 - Windows XP or later
 
 ## Installation
 
-Install Visual Basic 6 dan Cristal Report.
+Install Visual Basic 6 dan Crystal Reports.
 
 <div align="justify">Jalankan Aplikasi Nilai Mahasiswa.vbp untuk merubah Code atau klik 2x Program Nilai Mahasiswa.exe langsung menjalankan aplikasinya.</div>
 <br>
