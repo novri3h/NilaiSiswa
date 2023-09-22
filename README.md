@@ -31,6 +31,8 @@
 - Cetak Nilai Remedial
 - Cetak Nilai Transkip
 
+https://github.com/novri3h/NilaiSiswa/assets/25641359/65990503-8a0d-4515-bba5-51c4d1bd347f
+
 ## Tech
 
 Aplikasi ini dibangun dengan menggunakan:
