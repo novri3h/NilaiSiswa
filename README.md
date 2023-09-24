@@ -5,7 +5,7 @@
 <div align="justify">Aplikasi program nilai siswa adalah perangkat lunak yang dirancang untuk membantu guru atau pengajar dalam mengelola, melacak, dan memproses informasi mengenai nilai dan pencapaian siswa dalam suatu institusi pendidikan. Aplikasi ini memiliki berbagai fungsi yang berguna bagi guru, siswa, orang tua, dan administrasi sekolah.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-NilaiSiswa/graphs/commit-activity)
 
